@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I spend most of my day as a systems engineer, but in my free time I like to work on various projects. Most of my experience is geared toward unix/linux, C#, and small/medium sized web development.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have three cats, and there names are Brent, Mr.Fox, and Arya.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thomasekyle@gmail.com](thomasekyle@gmail.com)
