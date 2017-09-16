@@ -8,7 +8,7 @@ I spend most of my day as a systems engineer, but in my free time I like to work
 
 ### More Information
 
-I have three cats, and there names are Brent, Mr.Fox, and Arya.
+My girlfriend and I have three cats, and there names are Brent, Mr.Fox, and Arya.
 
 ### Contact me
 
