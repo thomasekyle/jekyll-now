@@ -12,7 +12,7 @@ all at the same time. It does get a little warm when you put load on the CPU, bu
 the heat dissipates pretty quickly if the load is not sustained.
 
 Here are the specs. (I got the Early 2015 version)
-Core M 5y31
-8GB RAM
-256GB SSD
-And a really nice screen
+- Core M 5y31
+- 8GB RAM
+- 256GB SSD
+- And a really nice screen
