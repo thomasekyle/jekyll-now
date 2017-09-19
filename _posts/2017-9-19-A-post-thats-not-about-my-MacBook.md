@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Weird, but in a good way
+title: A post thats not about my MacBook
 ---
 
-So I am one day three of me using my MacBook, and I can say that I am pretty impressed
-by this little laptop. I am in love with the gestures for macOS and the way you can
-quickly switch between desktops with ease. I can honestly see why people would
-purchase this device. I love being able to slide between desktops. I have been also
-using elementary OS for quite a little while and I can say that it feels a lot similar
-to that distribution. I am still getting used to the keyboard, but I do not dislike as
-much as I did yesterday. I haven't had any issues with speed today. There were some issues
-yesterday with visual studio, but they were do to a malfunctioning safari. I fixed the issue
-and started using it early this morning and it was fine. I still need to get the hang of
-using command button instead of the ctrl for various functions, but I believe that will come will
-a little bit of time.
+So I won't post about my nice new MacBook today. Instead about a project I started a couple of days ago
+called myr. Myr is a tool that assist with configuring and running commands on multiple unix/linux servers.
+I wanted a small program that was able to achieve this. I haven't had a chance to look at the way ansible works,
+but I can say myr is nowhere near as extensive as any of the other automation tools you can find on the internet.
 
-I am thinking of trading this device up for a 2016 MacBook pro if it manages to keep my attention. We'll
-see though. I have a Dell latitude e5450 that is one of the best laptops I have ever used in my life. :)
+
+I am using C# for development at the moment, but I would like to write myr in C/C++ when I get a chance. Installing the
+net runtime is not a fun time. Also, it interferes with the philosophy that myr is supposed to be a small tool for managing
+and configuring servers. Mono brings a lot of weight and unneeded bulk. I'm using C# now so that I can get a good feel of how
+to structure the program. (A I have used C# a lot.)

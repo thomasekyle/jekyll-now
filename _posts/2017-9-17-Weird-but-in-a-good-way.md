@@ -16,4 +16,4 @@ using command button instead of the ctrl for various functions, but I believe th
 a little bit of time.
 
 I am thinking of trading this device up for a 2016 MacBook pro if it manages to keep my attention. We'll
-see though. I have a Dell latitude e5450 that is one of the best laptops I have ever used in my life. 
+see though. I have a Dell latitude e5450 that is one of the best laptops I have ever used in my life.
