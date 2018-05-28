@@ -4,7 +4,7 @@ title: myr version 1.0.0 has finally come.
 ---
 
 It is done. I have been working on a command line tool for the last couple of weeks. It
-allows me to run a command or multiple command against unix/linux servers. The release version
+allows me to run a command or multiple commands against unix/linux servers. The release version
 is very crude, but I will add on to it, if need be to suit my needs. It is mostly because we lack
 a suitable automation tool at work. I would prefer to use Ansible, but I don't get to make those
 decisions so it was necessary to make a tool to hold our team over until the automation team finishes
