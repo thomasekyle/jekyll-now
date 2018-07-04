@@ -7,7 +7,7 @@ permalink: /projects/
 
 ### Active Projects
 
-Nothing to see here. :(
+- Answer(Coming Soon...) - Client Probably written in C# or Python that allow the user to communicate with an ansible server, run commands, sync playbooks/inventory/etc, and hopefully many more things in time. 
 
 ### Inactive Projects
 
