@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Long Time No See... 
+title: Long Time No See... Part 2
 ---
 
 Wow, it's been a while since an update. :(
